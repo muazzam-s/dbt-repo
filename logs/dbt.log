@@ -1,0 +1,33 @@
+
+
+============================== 2022-10-27 13:57:23.985041 | e30bad82-e504-44ea-bce2-bb8c29d6df82 ==============================
+[0m13:57:23.985041 [info ] [MainThread]: Running with dbt=1.3.0
+[0m13:57:23.995597 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Muazzam Munawwar\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'learn-dbt', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+[0m13:57:23.996722 [debug] [MainThread]: Tracking: tracking
+[0m13:57:24.135197 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026C4F1243A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026C4F1245E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000026C4F1246A0>]}
+[0m13:57:24.149886 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Muazzam Munawwar\.dbt
+[0m13:57:40.605810 [debug] [MainThread]: Starter project path: C:\Users\Muazzam Munawwar\AppData\Local\Programs\Python\Python39\lib\site-packages\dbt\include\starter_project
+
+
+============================== 2022-10-28 03:21:57.300958 | 6cd77aa3-acb0-4ad5-bd80-948aad12b611 ==============================
+[0m03:21:57.300958 [info ] [MainThread]: Running with dbt=1.3.0
+[0m03:21:57.300958 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Muazzam Munawwar\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': True, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m03:21:57.300958 [debug] [MainThread]: Tracking: tracking
+[0m03:21:57.358788 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002617383DD00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002617383D640>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002617383D880>]}
+[0m03:21:57.358788 [info ] [MainThread]: To view your profiles.yml file, run:
+
+start C:\Users\Muazzam Munawwar\.dbt
+[0m03:21:57.358788 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002617383D640>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002617383D880>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002617383DA60>]}
+[0m03:21:57.358788 [debug] [MainThread]: Flushing usage events
+
+
+============================== 2022-10-28 03:28:23.824419 | bfd6e5b0-844d-4373-b6c1-652671ec6c5b ==============================
+[0m03:28:23.824419 [info ] [MainThread]: Running with dbt=1.3.0
+[0m03:28:23.840051 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\Muazzam Munawwar\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'config_dir': True, 'which': 'debug', 'indirect_selection': 'eager'}
+[0m03:28:23.840051 [debug] [MainThread]: Tracking: tracking
+[0m03:28:23.899772 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002407D15ED90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002407D15E6D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002407D15E910>]}
+[0m03:28:23.899772 [info ] [MainThread]: To view your profiles.yml file, run:
+
+start C:\Users\Muazzam Munawwar\.dbt
+[0m03:28:23.899772 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002407D15E6D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002407D15E910>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002407D15E9A0>]}
+[0m03:28:23.899772 [debug] [MainThread]: Flushing usage events
