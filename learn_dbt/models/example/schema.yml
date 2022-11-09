@@ -17,10 +17,7 @@ models:
         description: "The primary key for this table"
         tests:
           - unique
-          - not_null
-          - relationships:
-              to: ref('my_first_dbt_model')
-              field: id
+          
   - name: demo
     description: "This is a demo"
     columns: 
